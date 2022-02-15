@@ -6,3 +6,5 @@
 This repository is an update of the repository above with a detailed README. Some new information about inovations with the render-pipeline are in this link:
 
 ## :computer: Link to the update [https://github.com/stadtentwicklung/masterplan/]
+
+This version only includes the content in english. 
