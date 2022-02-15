@@ -5,4 +5,4 @@
 
 This repository is an update of the repository above with a detailed README. Some new information about inovations with the render-pipeline are in this link:
 
-## :computer: Link [https://github.com/stadtentwicklung/maasterplan]
+## :computer: Link [https://github.com/stadtentwicklung/masterplan/]
