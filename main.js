@@ -2,7 +2,7 @@
 /* **** Leaflet **** */
 
 // Overlay layers (TMS)
-var lyr = L.tileLayer('./{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: '&copy; <a href="https://www.cottbus.de/verwaltung/gb_iv/stadtentwicklung/">Stadtentwicklung Cottbus</a>, 12/2021, <a href="https://stadtentwicklung.github.io/masterplan/"><b>DEUTSCH</b></a>, <a href="https://stadtentwicklung.github.io/masterplan-polski/"><b>POLSKI</b></a>', minZoom: 10, maxZoom: 15});
+var lyr = L.tileLayer('./{z}/{x}/{y}.png', {tms: true, opacity: 1, attribution: '&copy; <a href="https://www.cottbus.de/verwaltung/gb_iv/stadtentwicklung/">Stadtentwicklung Cottbus</a>, 12/2021, <a href="https://stadtentwicklung.github.io/masterplan/"><b>DEUTSCH</b></a>, <a href="https://stadtentwicklung.github.io/masterplan-polski/"><b>POLSKI</b></a>, <a href="https://stadtentwicklung.github.io/masterplan-dolnoserbski/"><b>DOLNOSERBSKI</b></a>', minZoom: 10, maxZoom: 15});
 
 // Map
 var map = L.map('map', {
